@@ -245,6 +245,7 @@ function shimBaseGoog() {
         importJs(src);
         return true;
     };
+    goog.global.CLOSURE_UNCOMPILED_DEFINES = {"clairvoyant.core.devmode":false};
 }
 
 // Figwheel fixes
