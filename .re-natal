@@ -7,7 +7,20 @@
     "dev": "env/dev",
     "prod": "env/prod"
   },
-  "modules": [],
+  "modules": [
+    "@exponent/react-native-action-sheet",
+    "react-native-blur",
+    "react-native-cacheable-image",
+    "react-native-cacheable-image",
+    "react-native-datepicker",
+    "react-native-fcm",
+    "react-native-image-picker",
+    "react-navigation",
+    "react-native-progress",
+    "react-native-splash-screen",
+    "react-native-svg",
+    "react-native-swiper"
+  ],
   "imageDirs": [
     "images"
   ]

@@ -4,7 +4,7 @@ A Clojure library designed to ... well, that part is up to you.
 
 ## Usage
 
-FIXME
+npm install -g re-natal@0.3.6
 
 ## License
 
