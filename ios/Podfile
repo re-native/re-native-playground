@@ -1,0 +1,10 @@
+platform :ios, '10.0'
+
+target 'ReNativePlayground' do
+
+  use_frameworks!
+
+  pod "Firebase/Messaging"
+
+
+end
